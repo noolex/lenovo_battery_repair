@@ -25,6 +25,8 @@ Read eeprom
 ```
 $python3 bat_read_eeprom.py [portnum] [i2c-hex-address] [eeprom-filename]
 ```
+Correct eeprom, I don't know how.... See below
+
 Write eeprom
 ```
 $python3 bat_write_eeprom.py [portnum] [i2c-hex-address] [eeprom-filename]
