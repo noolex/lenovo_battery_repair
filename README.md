@@ -1,5 +1,5 @@
 # lenovo_battery_repair
-Scripts for repair lenovo battery LNV-45N1175 from ThinkPad x230
+Scripts for repair lenovo battery LNV-45N1175 from ThinkPad x230 on bq8030 controller
 
 Connect battery to VGA (D-Sub):   
 Battery connector: | + | + |      |SCL|SDA|unkn|GND|GND|    
