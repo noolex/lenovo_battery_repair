@@ -1,0 +1,33 @@
+-------------------------------------------------
+
+Manufacturer Name: SANYO
+Device Name: LNV-45N1175
+Device Chemistry: LION
+Serial Number: 0x2fc9
+Manufacture Date: 2013.07.11
+Manufacturer Access: 0x18
+Remaining Capacity Alarm: 940 mAh(/10mWh)
+Remaining Time Alarm: 10 min
+Battery Mode: 0x8000
+At Rate: 0 mAh(/10mWh)
+At Rate Time To Full: 65535 min
+At Rate Time To Empty: 65535 min
+At Rate OK: 65535
+Temperature: 26.350000000000023 degC
+Voltage: 12334 mV
+Current: 0 mA
+Average Current: 0 mA
+Max Error: 0 %
+Relative State Of Charge: 0 %
+Absolute State Of Charge: 0 %
+Remaining Capacity: 0 mAh(/10mWh)
+Full Charge Capacity: 8894 mAh(/10mWh)
+Run Time To Empty: 0 min
+Average Time To Empty: 0 min
+Average Time To Full: 65535 min
+Charging Current: 4125 mA
+Charging Voltage: 12600 mV
+Battery Status: 0x3d0
+Cycle Count: 0
+Manufacturer Data: 
+Cells voltage: 0 4113 4099 4122 mV
