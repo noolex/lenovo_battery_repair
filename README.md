@@ -5,7 +5,7 @@ Connect battery to VGA (D-Sub):
 Battery connector: | + | + |      |SCL|SDA|unkn|GND|GND|    
 VGA connector pins: 5-GND, 12-SDA, 15-SCL
 
-Detecting i2c port using i2c-tools
+Detecting i2c port using i2c-tools and get port number of VGA I2C device
 ```
 $i2cdetect -l
 ```
